@@ -1,4 +1,5 @@
-﻿using System;
+﻿//https://stepik.org/lesson/701474/step/9?unit=701545
+using System;
 
 public class MainClass
 {
